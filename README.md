@@ -18,7 +18,7 @@ Access the full design on Figma:
 
 The case study outlines the design process, problem definition, proposed solution, and UI walkthrough.
 
-[Download Trippo Application.pdf](Trippo%20Application.pdf)
+[Download Trippo Application.pdf](Trippo-Application.pdf)
 
 ---
 
