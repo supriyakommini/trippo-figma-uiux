@@ -51,11 +51,9 @@ The design emphasizes usability, intuitive navigation, and a clean interface to 
 
 **K Supriya**  
 [LinkedIn](https://www.linkedin.com/in/supriya-kommini)  
-[GitHub](https://github.com/supriyakommini)
 
 **R Kavin Kumar**  
 [LinkedIn](https://www.linkedin.com/in/rkavinkumar/)  
-[GitHub](https://github.com/kavk-r)
 
 ---
 
